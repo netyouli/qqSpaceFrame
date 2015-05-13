@@ -7,7 +7,8 @@
 //
 
 #import "AppDelegate.h"
-
+#import "WHC_SlideBlurNavigationController.h"
+#import "WHC_LeftVC.h"
 @interface AppDelegate ()
 
 @end
@@ -17,6 +18,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    _window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
+    WHC_SlideBlurNavigationController  * slideBlurNav = [WHC_SlideBlurNavigationController sharedInstance];
+    slideBlurNav.leftMenuVC = [WHC_LeftVC new];
+    _window.rootViewController = slideBlurNav;
+    [_window makeKeyAndVisible];
     return YES;
 }
 
