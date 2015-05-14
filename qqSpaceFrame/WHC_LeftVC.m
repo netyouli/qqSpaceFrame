@@ -6,6 +6,12 @@
 //  Copyright (c) 2015年 吴海超. All rights reserved.
 //
 
+/*
+ *  qq:712641411
+ *  gitHub:https://github.com/netyouli
+ *  csdn:http://blog.csdn.net/windwhc/article/category/3117381
+ */
+
 #import "WHC_LeftVC.h"
 #import "WHC_SlideBlurNavigationController.h"
 #import "OtherVC.h"
@@ -29,7 +35,7 @@
 
 - (void)viewDidLoad{
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"right.jpg"]];
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"back.png"]];
     
     menuItemTitles = @[@"吴海超，ios&android 712641411",@"left_two",@"left_three"];
     

@@ -24,6 +24,7 @@
 		C3D6CB641B01D38600375FB1 /* qqSpaceFrameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C3D6CB631B01D38600375FB1 /* qqSpaceFrameTests.m */; };
 		C3D6CB761B01DB8400375FB1 /* right.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6CB741B01DB8400375FB1 /* right.jpg */; };
 		C3D6CB7B1B01ECDA00375FB1 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3D6CB7A1B01ECDA00375FB1 /* Accelerate.framework */; };
+		C3FCEC321B045FBF00CBD14A /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = C3FCEC311B045FBF00CBD14A /* back.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		C3D6CB631B01D38600375FB1 /* qqSpaceFrameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qqSpaceFrameTests.m; sourceTree = "<group>"; };
 		C3D6CB741B01DB8400375FB1 /* right.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = right.jpg; sourceTree = "<group>"; };
 		C3D6CB7A1B01ECDA00375FB1 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		C3FCEC311B045FBF00CBD14A /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				C3D420F21B031853009432EC /* OtherVC.h */,
 				C3D420F31B031853009432EC /* OtherVC.m */,
 				C3D6CB741B01DB8400375FB1 /* right.jpg */,
+				C3FCEC311B045FBF00CBD14A /* back.png */,
 				C3D420E71B02FAD9009432EC /* qqSpace.png */,
 				C3D4210C1B034CF8009432EC /* three.png */,
 				C3D421141B03509C009432EC /* one.png */,
@@ -252,6 +255,7 @@
 				C3D6CB581B01D38600375FB1 /* LaunchScreen.xib in Resources */,
 				C3D4210F1B034CF8009432EC /* three.png in Resources */,
 				C3D420E81B02FAD9009432EC /* qqSpace.png in Resources */,
+				C3FCEC321B045FBF00CBD14A /* back.png in Resources */,
 				C3D6CB761B01DB8400375FB1 /* right.jpg in Resources */,
 				C3D421151B03509C009432EC /* one.png in Resources */,
 				C3D6CB551B01D38600375FB1 /* Images.xcassets in Resources */,

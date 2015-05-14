@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>049FF86B-9D5E-448C-A21A-8571C9A066E2</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>qqSpaceFrame</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>AE637F914BB153B36450558D6AC2E45C4571BEEA</key>
 		<string>https://github.com/netyouli/qqSpaceFrame.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>qqSpaceFrame.xcodeproj/project.xcworkspace</string>
+	<string>qqSpaceFrame.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>AE637F914BB153B36450558D6AC2E45C4571BEEA</key>

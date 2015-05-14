@@ -6,6 +6,12 @@
 //  Copyright (c) 2015年 UIImage+WHC_Blur. All rights reserved.
 //
 
+/*
+ *  qq:712641411
+ *  gitHub:https://github.com/netyouli
+ *  csdn:http://blog.csdn.net/windwhc/article/category/3117381
+ */
+
 #import "UIImage+WHC_Blur.h"
 
 @implementation UIImage (WHC_Blur)
